@@ -77,9 +77,10 @@ s.close()
 ## RESULT
 ## CLIENT 
 <img width="297" height="110" alt="image" src="https://github.com/user-attachments/assets/cec6930a-65cf-4384-9c98-009331b5d7d4" />
+~~~
 ## SERVER
 <img width="591" height="117" alt="image" src="https://github.com/user-attachments/assets/a5598260-a9eb-4f6a-b671-8fd14ceff33f" />
-
+~~~
 
 
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
